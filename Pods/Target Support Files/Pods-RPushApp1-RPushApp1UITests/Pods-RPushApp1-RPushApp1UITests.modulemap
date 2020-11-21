@@ -1,0 +1,6 @@
+framework module Pods_RPushApp1_RPushApp1UITests {
+  umbrella header "Pods-RPushApp1-RPushApp1UITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
