@@ -18,7 +18,7 @@
 		E3548FB1256659F50038305A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E3548FAF256659F50038305A /* LaunchScreen.storyboard */; };
 		E3548FBC256659F50038305A /* RPushApp1Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3548FBB256659F50038305A /* RPushApp1Tests.swift */; };
 		E3548FC7256659F50038305A /* RPushApp1UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3548FC6256659F50038305A /* RPushApp1UITests.swift */; };
-		E3548FEB2568F6700038305A /* GoogleService-Info .plist in Resources */ = {isa = PBXBuildFile; fileRef = E3548FEA2568F6700038305A /* GoogleService-Info .plist */; };
+		E3548FEB2568F6700038305A /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = E3548FEA2568F6700038305A /* GoogleService-Info.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -60,7 +60,7 @@
 		E3548FC2256659F50038305A /* RPushApp1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RPushApp1UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E3548FC6256659F50038305A /* RPushApp1UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RPushApp1UITests.swift; sourceTree = "<group>"; };
 		E3548FC8256659F50038305A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		E3548FEA2568F6700038305A /* GoogleService-Info .plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info .plist"; sourceTree = "<group>"; };
+		E3548FEA2568F6700038305A /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		E6A2D616CACAA104E448151F /* Pods_RPushApp1Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_RPushApp1Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		E890D2FBCDA883417FBCC976 /* Pods-RPushApp1-RPushApp1UITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RPushApp1-RPushApp1UITests.debug.xcconfig"; path = "Target Support Files/Pods-RPushApp1-RPushApp1UITests/Pods-RPushApp1-RPushApp1UITests.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -148,7 +148,7 @@
 				E3548FAD256659F50038305A /* Assets.xcassets */,
 				E3548FAF256659F50038305A /* LaunchScreen.storyboard */,
 				E3548FB2256659F50038305A /* Info.plist */,
-				E3548FEA2568F6700038305A /* GoogleService-Info .plist */,
+				E3548FEA2568F6700038305A /* GoogleService-Info.plist */,
 			);
 			path = RPushApp1;
 			sourceTree = "<group>";
@@ -280,7 +280,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E3548FB1256659F50038305A /* LaunchScreen.storyboard in Resources */,
-				E3548FEB2568F6700038305A /* GoogleService-Info .plist in Resources */,
+				E3548FEB2568F6700038305A /* GoogleService-Info.plist in Resources */,
 				E3548FAE256659F50038305A /* Assets.xcassets in Resources */,
 				E3548FAC256659F10038305A /* Main.storyboard in Resources */,
 			);
